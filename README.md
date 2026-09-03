@@ -1,14 +1,18 @@
 # Corey Tasz · Slid Phi Labs
 
-Small **computation lab** in Cherry Hill. I build tools that *check*:
+I build **small, testable products at the boundary of computation and AI**. Slid Phi Labs focuses on tools that make software more reliable, inspectable, and useful.
 
-- **[CuNi](https://www.slidphilabs.com/cuni)** — one source becomes Python, Go, and JavaScript, or it refuses to compile. [Studio](https://cuni-studio.fly.dev/) is free.
-- **[Chamber](https://www.slidphilabs.com/chamber)** — two keys to lock a JSON secret.
-- **[Agent-Rider](https://www.slidphilabs.com/rider)** — signed identity for AI agents.
-- **[AWARE](https://www.slidphilabs.com/gc)** — hosted lossless compressor. You buy a seat. The engine stays in the lab.
+## Selected products
 
-Site: [slidphilabs.com](https://www.slidphilabs.com) · Humans: [/humans](https://www.slidphilabs.com/humans) · Agents: [/agents](https://www.slidphilabs.com/agents)
+| Product | What it does | Link |
+|---|---|---|
+| **CuNi** | Generates consistent Python, Go, and JavaScript implementations from one source—or refuses to compile when they diverge. | [Studio](https://cuni-studio.fly.dev/) · [source](https://github.com/ceedot-rock/cuni) |
+| **Quikgater** | Pay-per-fact web fetching for AI agents using the x402 payment protocol. | [source](https://github.com/ceedot-rock/quikgater) |
+| **Pulsar** | An open GPLv3 lossless compressor and reproducible technical demonstration from Slid Phi Labs. | [source](https://github.com/ceedot-rock/pulsar-best) |
+| **Great Agentic Olympiad** | An open competition framework for measuring agent and human–agent team performance. | [project](https://github.com/ceedot-rock/great-agentic-olympiad) · [site](https://www.slidphilabs.com/olympiad) |
 
-Public demo compressor (not the paid engine): [pulsar-best](https://github.com/ceedot-rock/pulsar-best)
+## What I care about
 
-Inbox: corey@slidphilabs.com · X: [@SlidPhiLabs](https://x.com/slidphilabs)
+**Reproducibility, honest benchmarks, and products that can be inspected.** Public repositories contain selected demonstrations and open components; private research and hosted commercial systems remain separate.
+
+[Slid Phi Labs](https://www.slidphilabs.com) · [Contact](mailto:corey@slidphilabs.com) · [LinkedIn / social links](https://www.slidphilabs.com/humans)
