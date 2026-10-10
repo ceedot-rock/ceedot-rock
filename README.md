@@ -6,7 +6,7 @@ I build **small, testable products at the boundary of computation and AI**. Slid
 
 | Product | What it does | Link |
 |---|---|---|
-| **CuNi** | Write your code once, and it either behaves exactly the same in every language it builds for — or refuses to build at all. 144 languages and counting. | [site](https://www.slidphilabs.com/cuni) · [source](https://github.com/ceedot-rock/cuni) · [crates.io](https://crates.io/crates/cuni) |
+| **CuNi** | Write your code once, and it either behaves exactly the same in every language it builds for — or refuses to build at all. 53 targets. | [site](https://www.slidphilabs.com/cuni) · [source](https://github.com/ceedot-rock/cuni) · [crates.io](https://crates.io/crates/cuni) |
 | **Agent Rider** | The live network where agents hold signed identities and pay per call. No signup, no API keys; the wallet is the auth. | [site](https://www.slidphilabs.com/rider) · [source](https://github.com/ceedot-rock/Agent-Rider) |
 | **Chamber JSON** | A lockbox for secrets: seal API keys, credentials, and config into one encrypted package. Opening it takes two separate keys. | [site](https://www.slidphilabs.com/chamber) |
 | **The Ring** | Memory made of light — data as sustained laser interference patterns. Volatile by nature: it's RAM, not a disk. | [live service](https://aos-ring.fly.dev/health) · [source](https://github.com/ceedot-rock/aos-ring) |
