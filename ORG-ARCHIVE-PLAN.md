@@ -2,6 +2,11 @@
 
 One line per org repo: the exact manual step still needed, with the reason. File changes from the audit are already pushed; only GitHub-Settings steps remain. Generated 2026-11-08 from the governance closeout (host-dump notices, awesome-list dedup).
 
+**No `host-*` dump is to be deleted.** Treat every dump as the only copy of the work it
+holds: they are private and that work may not be duplicated anywhere else. Read-only
+archiving is fine; removal is not. A dump's "live work" link points at where the project
+continues — it is not a claim that the successor contains the dumped contents.
+
 | repo | step — reason |
 |---|---|
 | APParattus | nothing — no open governance item from this audit |
@@ -85,10 +90,16 @@ One line per org repo: the exact manual step still needed, with the reason. File
 | grok-build | nothing — no open governance item from this audit |
 | helix-compression-lab | nothing — no open governance item from this audit |
 | homebrew-cuni | nothing — no open governance item from this audit |
-| host-agent-rider-dump | nothing — inactive notice pushed, repo archived; dump of Agent-Rider |
-| host-blackjack-dump | nothing — inactive notice pushed, repo archived; dump of blackjack-compression |
-| host-blok-dump | nothing — inactive notice pushed, repo archived; dump of blokz + blok-chain |
-| host-cuni-dump | nothing — inactive notice pushed, repo archived; dump of cuni |
+| host-agent-rider-dump | keep, do not delete — only copy of Agent-Rider; archival notice pushed (live work: RiderVerse `Agent-Rider/`) |
+| host-agent-terminal-preview | keep, do not delete — only copy of agent-terminal-preview; archival notice pushed |
+| host-ai-studio-toys | keep, do not delete — only copy of ai-studio-toys; archival notice pushed |
+| host-base-pot-game | keep, do not delete — only copy of base-pot-game; archival notice pushed |
+| host-blackjack-dump | keep, do not delete — only copy of blackjack-compression; archival notice pushed |
+| host-blok-dump | keep, do not delete — only copy of blokz + blok-chain (both public repos archived read-only); archival notice pushed |
+| host-boxing-sim | keep, do not delete — only copy of boxing-sim; archival notice pushed |
+| host-chamber-labs-docs | keep, do not delete — only copy of the Chamber Labs Doc Pack; archival notice pushed |
+| host-crypto-quant | keep, do not delete — only copy of crypto-quant; archival notice pushed |
+| host-cuni-dump | keep, do not delete — only copy of cuni; archival notice pushed (live work: CuNIverse repo root) |
 | host-hex-brain | nothing — no open governance item from this audit |
 | host-olympiad-dump | nothing — no open governance item from this audit |
 | host-plane-substrate | nothing — no open governance item from this audit |
